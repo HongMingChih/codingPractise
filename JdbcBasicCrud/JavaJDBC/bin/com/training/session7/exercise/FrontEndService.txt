@@ -1,0 +1,13 @@
+Member [identificationNo=D201663865, password=123, customerName=Tiffany]
+----------------------------------------
+Goods [goodsID=16, goodsName=Caramel Macchiato, goodsPrice=140, goodsQuantity=20, goodsImageName=20170627171958121.jpg, status=1]
+Goods [goodsID=17, goodsName=Iced Caramel Macchiato, goodsPrice=140, goodsQuantity=20, goodsImageName=20170627175758131.jpg, status=1]
+Goods [goodsID=18, goodsName=Caffe Mocha, goodsPrice=135, goodsQuantity=20, goodsImageName=20130813161442705.jpg, status=1]
+Goods [goodsID=19, goodsName=Iced Caffe Mocha, goodsPrice=135, goodsQuantity=16, goodsImageName=20130813163137244.jpg, status=1]
+Goods [goodsID=20, goodsName=Caffe Americano, goodsPrice=80, goodsQuantity=16, goodsImageName=20130813161023652.jpg, status=1]
+Goods [goodsID=21, goodsName=Iced Caffe Americano, goodsPrice=95, goodsQuantity=20, goodsImageName=20130813163246257.jpg, status=1]
+----------------------------------------
+Goods [goodsID=19, goodsName=Iced Caffe Mocha, goodsPrice=135, goodsQuantity=16, goodsImageName=null, status=null]
+Goods [goodsID=20, goodsName=Caffe Americano, goodsPrice=80, goodsQuantity=16, goodsImageName=null, status=null]
+建立訂單成功!
+商品庫存更新成功!

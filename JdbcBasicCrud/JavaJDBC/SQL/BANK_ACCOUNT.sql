@@ -1,0 +1,19 @@
+-- 移除資料表
+DROP TABLE BANK_ACCOUNT;
+
+-- 建立資料表
+CREATE TABLE BANK_ACCOUNT 
+(
+  NAME VARCHAR(20) PRIMARY KEY -- 主鍵(唯一值、NOT NULL)
+, PASSWORD VARCHAR(40) NOT NULL 
+, BALANCE NUMBER NOT NULL 
+, FUNMONEY NUMBER NOT NULL 
+);
+
+-- 資料新增
+INSERT INTO BANK_ACCOUNT (name,PASSWORD,balance,funMoney) values('Tom','123',10000,0);
+INSERT INTO BANK_ACCOUNT (name,PASSWORD,balance,funMoney) values('Casey','123',20000,0);
+INSERT INTO BANK_ACCOUNT (name,PASSWORD,balance,funMoney) values('James','123',15000,0);
+
+-- 資料提交
+COMMIT;
